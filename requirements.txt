@@ -1,0 +1,4 @@
+musicscore==2.1.0
+musicxml==1.4
+numpy==2.0.0
+quicktions==1.18
